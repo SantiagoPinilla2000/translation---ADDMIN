@@ -1,0 +1,32 @@
+{
+    "en": {
+        "myProfile": {
+
+            "user": "User",
+            "name": "Name",
+            "lastName": "Last Name",
+            "phoneNumber": "Phone Number",
+            "email": "Email",
+            "apartmentTower": "Apartment Tower",
+            "apartment": "Apartment",
+            "update": "Update",
+            "changePassword": "Change Password",
+
+            "reservations": "Reservations",
+
+            "payments": "Payments",
+            "paymentType": "Payment Type",
+            "originalValue": "Original Value",
+            "discountValue": "Discount value",
+            "finalValue": "Final Value",
+            "datePayment": "Date",
+
+            "pqrs": "PQRS",
+            "title": "Title",
+            "description": "Description",
+            "inCharge": "In Charge",
+            "response": "Response",
+            "datePqrs": "Date"
+        }
+    }
+}
