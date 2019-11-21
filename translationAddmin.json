@@ -56,6 +56,7 @@
             "selectpaymentType": "Select a payment type",
             "paymentValue": "Value to pay",
             "paymentDiscount": "Discount",
+            "paymentButton": "Save",
 
             "checkPayment": "Check Payment",
 
@@ -146,6 +147,157 @@
 
         "logOut": {
             "logOutButton": "Log Out"
+        }
+    },
+
+    "es": {
+
+        "userType": {
+            "uType": "Administrador"
+        },
+
+        "addminButton": {
+            "addmin": "Addmin"
+        },
+
+        "myProfile": {
+
+            "user": "Usuario",
+
+            "name": "Nombre",
+            "lastName": "Apellido",
+            "phoneNumber": "telefono",
+            "email": "Email",
+            "apartmentTower": "Torre",
+            "apartment": "Apartamento",
+            "update": "Actualizar",
+            "changePassword": "Cambiar Contraseña",
+
+            "reservations": "Reservas",
+
+            "payments": "Pagos",
+
+            "paymentType": "Tipo de pago",
+            "originalValue": "Valor original",
+            "discountValue": "Valor del descuento",
+            "finalValue": "Valor Final",
+            "datePayment": "Fecha",
+
+            "pqrs": "PQRS",
+
+            "title": "Titulo",
+            "description": "Descripción",
+            "inCharge": "Encargado",
+            "response": "Respuesta",
+            "datePqrs": "Fecha"
+        },
+
+        "reservationsModule": {
+
+            "generateReservation": "Generar Reserva",
+            "checkReservation": "Consultar Reserva"
+        },
+
+        "paymentModule": {
+
+            "generatePayment": "Generar Pago",
+
+            "generatePaymentTitle": "Generar Pago",
+            "selectUser": "Seleccionar un usuario",
+            "selectpaymentType": "Seleccione un tipo de pago",
+            "paymentValue": "Valor a pagar",
+            "paymentDiscount": "Descuento",
+            "paymentButton": "Guardar",
+
+            "checkPayment": "Consultar Pagos",
+
+            "checkPaymentTitle": "Consultar Pagos",
+            "searchPlaceholder": "Buscar",
+            "paymentType": "Tippo de pago",
+            "userInfo": "Usuario",
+            "originalValue": "Valor Original",
+            "discountValue": "Valor Descontado",
+            "finalValue": "Valor Final",
+            "modify": "Modificar",
+            "eliminate": "Eliminar"
+        },
+
+        "council": {
+
+            "generateStatement": "Generar Comunicado",
+
+            "generateStatementTitle": "Generar Comunicado",
+            "textPlaceholder": "inserte aqui su texto...",
+            "saveButton": "Guardar",
+            "previewButton": "Vista Previa",
+
+            "checkStatement": "Consultar Comunicado",
+
+            "editButton": "Editar",
+            "eliminateButton": "Eliminar",
+
+            "generatePQRS": "Generar PQRS",
+
+            "generatePQRSTitle": "Generar PQRS",
+            "PQRSText": "Tipo de  PQRS",
+            "PQRSOption": "Selecciona una opción",
+
+            "petitions": "Peticiones",
+            "complaints": "Quejas",
+            "claims": "Reclamos",
+            "suggestions": "Sugerencias",
+
+            "PQRSTitle": "Titulo",
+            "PQRSDescription": "Descripción",
+            "imageButton": "Imagen",
+            "evidenceUpload": "Sube tu evidencia",
+            "PQRSsaveButton": "Guardar",
+
+            "checkPQRS": "Consultar PQRS",
+
+            "checkPQRSTitle": "Consultar PQRS",
+            "checkPQRSpetitions": "Peticiones",
+            "checkPQRScomplaints": "Quejas",
+            "checkPQRSclaims": "Reclamos",
+            "checkPQRSsuggestions": "Sugerencias",
+            "checkPQRSNotification": "1 nuevo",
+            "checkPQRSEditButton": "Editar el tipo de PQRS"
+        },
+
+        "Users": {
+
+            "generateUsers": "Generar Usuarios",
+
+            "generateUsersTitle": "Crear Usuario",
+            "generateUsersName": "Nombre",
+            "generateUsersLastName": "Apellido",
+            "generateUsersPhoneNumber": "Telefono",
+            "generateUsersUserType": "selecciona una opción",
+
+            "generateUsersTypeUserAdministrator": "Administrador",
+            "generateUsersTypeUserCouncil": "Concejo",
+            "generateUsersTypeUserResident": "Residente",
+
+            "generateUsersApartmentTower": "Torre",
+            "generateUsersApartment": "Apartamento",
+            "generateUsersEmail": "Email",
+            "generateUsersPassword": "Contraseña",
+            "generateUsersSaveButton": "Guardar",
+
+            "checkUsers": "Consultar Usuarios",
+
+            "checkUsersTitle": "Lista de usuarios",
+            "checkUsersPlaceholder": "Buscar",
+            "checkUsersName": "Nombre",
+            "checkUsersLastName": "Apellido",
+            "checkUsersEmail": "Email",
+            "checkUsersPhoneNumber": "Telefono",
+            "checkUsersModify": "Modificar",
+            "checkUsersEliminate": "Eliminar"
+        },
+
+        "logOut": {
+            "logOutButton": "Salir"
         }
     }
 }
