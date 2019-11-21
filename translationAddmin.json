@@ -1,8 +1,18 @@
 {
     "en": {
+
+        "userType": {
+            "uType": "Administrator"
+        },
+
+        "addminButton": {
+            "addmin": "Addmin"
+        },
+
         "myProfile": {
 
             "user": "User",
+
             "name": "Name",
             "lastName": "Last Name",
             "phoneNumber": "Phone Number",
@@ -15,6 +25,7 @@
             "reservations": "Reservations",
 
             "payments": "Payments",
+
             "paymentType": "Payment Type",
             "originalValue": "Original Value",
             "discountValue": "Discount value",
@@ -22,11 +33,119 @@
             "datePayment": "Date",
 
             "pqrs": "PQRS",
+
             "title": "Title",
             "description": "Description",
             "inCharge": "In Charge",
             "response": "Response",
             "datePqrs": "Date"
+        },
+
+        "reservationsModule": {
+
+            "generateReservation": "Generate Reservation",
+            "checkReservation": "Check Reservation"
+        },
+
+        "paymentModule": {
+
+            "generatePayment": "Generate Payment",
+
+            "generatePaymentTitle": "Generate Payment",
+            "selectUser": "Select a user",
+            "selectpaymentType": "Select a payment type",
+            "paymentValue": "Value to pay",
+            "paymentDiscount": "Discount",
+
+            "checkPayment": "Check Payment",
+
+            "checkPaymentTitle": "Check Payment",
+            "searchPlaceholder": "Search",
+            "paymentType": "Type of payment",
+            "userInfo": "User",
+            "originalValue": "original Value",
+            "discountValue": "Discount Value",
+            "finalValue": "Final Value",
+            "modify": "Modify",
+            "eliminate": "Eliminate"
+        },
+
+        "council": {
+
+            "generateStatement": "Generate Statement",
+
+            "generateStatementTitle": "Generate Statement",
+            "textPlaceholder": "insert here your text...",
+            "saveButton": "Save",
+            "previewButton": "Preview",
+
+            "checkStatement": "Check Statement",
+
+            "editButton": "Edit",
+            "eliminateButton": "Eliminate",
+
+            "generatePQRS": "Generate PQRS",
+
+            "generatePQRSTitle": "Generate PQRS",
+            "PQRSText": "Type of PQRS",
+            "PQRSOption": "Select a option",
+
+            "petitions": "Petitions",
+            "complaints": "Complaints",
+            "claims": "Claims",
+            "suggestions": "Suggestions",
+
+            "PQRSTitle": "Title",
+            "PQRSDescription": "Description",
+            "imageButton": "Image",
+            "evidenceUpload": "Upload your evidence",
+            "PQRSsaveButton": "Save",
+
+            "checkPQRS": "Check PQRS",
+
+            "checkPQRSTitle": "Check PQRS",
+            "checkPQRSpetitions": "Petitions",
+            "checkPQRScomplaints": "Complaints",
+            "checkPQRSclaims": "Claims",
+            "checkPQRSsuggestions": "Suggestions",
+            "checkPQRSNotification": "1 new",
+            "checkPQRSEditButton": "Edit type of PQRS"
+        },
+
+        "Users": {
+
+            "generateUsers": "Generate Users",
+
+            "generateUsersTitle": "Create user",
+            "generateUsersName": "Name",
+            "generateUsersLastName": "Last Name",
+            "generateUsersPhoneNumber": "Phone Number",
+            "generateUsersUserType": "select a option",
+
+            "generateUsersTypeUserAdministrator": "Administrator",
+            "generateUsersTypeUserCouncil": "Council",
+            "generateUsersTypeUserResident": "Resident",
+
+            "generateUsersApartmentTower": "Apartment Tower",
+            "generateUsersApartment": "Apartment",
+            "generateUsersEmail": "Email",
+            "generateUsersPassword": "Password",
+            "generateUsersSaveButton": "Save",
+
+            "checkUsers": "Check Users",
+
+            "checkUsersTitle": "List of users",
+            "checkUsersPlaceholder": "Search",
+            "checkUsersName": "Name",
+            "checkUsersLastName": "Last Name",
+            "checkUsersEmail": "Email",
+            "checkUsersPhoneNumber": "Phone Number",
+            "checkUsersModify": "Modify",
+            "checkUsersEliminate": "Eliminate"
+        },
+
+        "logOut": {
+            "logOutButton": "Log Out"
         }
     }
 }
